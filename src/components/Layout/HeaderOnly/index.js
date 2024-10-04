@@ -1,5 +1,5 @@
-import Header from './Header';
-import Footer from './Footer';
+import Header from '~/components/Layout/components/Header';
+import Footer from '~/components/Layout/components/Footer';
 
 function HeaderOnly({ children }) {
     return (

@@ -1,6 +1,6 @@
-import Header from './Header';
+import Header from '~/components/Layout/components/Header';
 import Sidebar from './Sidebar';
-import Footer from './Footer';
+import Footer from '~/components/Layout/components/Footer';
 
 function DefaultLayout({ children }) {
     return (
